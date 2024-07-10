@@ -104,9 +104,14 @@ h1 {
         font-size: 3rem;
     }
     .border {
-        width: 90%;
+        width: 109%;
     }
-
+    .custom-div-1 {
+        width: 109%; 
+    }
+    .custom-div-2 {
+        width: 107%; 
+    }
 }
 
 @media (max-width: 768px) {
@@ -121,7 +126,14 @@ h1 {
         font-size: 1rem;
     }
     .border {
-        width: 100%;
+        width: 104%;
+    }
+    .custom-div-1 {
+        width: 104%;
+    }
+    
+    .custom-div-2 {
+        width: 103%; 
     }
 }
 
@@ -141,7 +153,13 @@ h1 {
         font-size: 0.875rem;
     }
     .border {
-        width: 100%;
+        width: 97%;
     }
-    
+
+    .custom-div-1 {
+        width: 50%%;
+    }
+    .custom-div-2 {
+        width: 95%;
+    }
 }
